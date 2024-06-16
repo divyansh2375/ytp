@@ -4,10 +4,21 @@ import Button from './Button'
 
 function ButtonList() {
   return (
-    <div>
-      <Button />
+    <div className='flex'>
+      <Button  name="All" />
+      <Button  name="Gaming" />
+      <Button  name="Songs" />
+      <Button  name="Live" />
+      <Button  name="News" />
+      <Button  name="Cricket" />
+      <Button  name="Trailer" />
+      <Button  name="Gaming" />
+      <Button  name="Songs" />
+      <Button  name="Live" />
+      <Button  name="News" />
+      <Button  name="Cricket" />
+      <Button  name="Trailer" />
 
-        <VideoContainer />
     </div>
   )
 }

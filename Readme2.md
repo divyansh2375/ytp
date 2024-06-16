@@ -31,3 +31,6 @@ slice having the
 
 slice encapsulate the logic for a specific pieces . 
 you can dispatch these after this 
+
+
+one mistake which i was doing like i was making seperate buttons for every time but we should use props to make different buttons 

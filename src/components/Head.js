@@ -1,7 +1,6 @@
 import React from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { toggleMenu } from '../utils/appSlice';
-import Sidebar from './Sidebar';
 
 function Head() {
   const dispatch = useDispatch();
