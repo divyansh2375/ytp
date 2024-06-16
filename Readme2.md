@@ -38,3 +38,10 @@ one mistake which i was doing like i was making seperate buttons for every time 
 
 always while fetching do with one and then after that do with map with all
 make it perfect for one and then scale it for large 
+
+Before making WatchPage we have to do routing 
+
+
+Homework 1 -> 
+make session one completely by yourself and also you have to record yourself and explain the terms
+and have a timer running them speak while you code . Very good skill 
