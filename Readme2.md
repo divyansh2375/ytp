@@ -34,3 +34,7 @@ you can dispatch these after this
 
 
 one mistake which i was doing like i was making seperate buttons for every time but we should use props to make different buttons 
+
+
+always while fetching do with one and then after that do with map with all
+make it perfect for one and then scale it for large 
